@@ -12,7 +12,7 @@ gem 'jquery-caret-rails', '~> 1.0.0'
 You can add jquery-caret-rails to your `application.js` file using a require statement like this:
 
 ```
-//= require jquery-caret-rails
+//= require jquery.caret
 ```
 
 ### License
