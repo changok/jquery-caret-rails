@@ -10,9 +10,9 @@ Gem::Specification.new do |gem|
   gem.email         = ["ckim@twitter.com"]
   gem.description   = %q{TODO: Write a gem description}
   gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/changok/jquery-caret-rails"
 
-  gem.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
+  gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
   gem.require_paths = ["lib"]
   gem.add_dependency "railties", "~> 3.1"
 end
