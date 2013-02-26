@@ -6,10 +6,9 @@ require 'jquery-caret-rails/version'
 Gem::Specification.new do |gem|
   gem.name          = "jquery-caret-rails"
   gem.version       = Jquery::Caret::Rails::VERSION
-  gem.authors       = ["Changok Kim"]
-  gem.email         = ["ckim@twitter.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["Changok Kim, Luke Morton"]
+  gem.email         = ["changok.daniel.kim@gmail.com"]
+  gem.description   = gem.summary = "jquery-caret for the Rails asset pipeline"
   gem.homepage      = "https://github.com/changok/jquery-caret-rails"
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
