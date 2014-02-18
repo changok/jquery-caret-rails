@@ -4,7 +4,7 @@
 
 Add it to your `Gemfile`:
 ```
-gem 'jquery-caret-rails', '~> 1.0.0'
+gem 'jquery-caret-rails', '~> 1.0.1'
 ```
 
 ### Usage
